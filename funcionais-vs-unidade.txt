@@ -1,0 +1,2 @@
+Testes funcionais são mais lentos que testes de unidade.
+Testes de unidade estão em uma quantidade maior que testes funcionais.
