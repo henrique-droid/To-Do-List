@@ -1,0 +1,8 @@
+Primeiro escrevemos um teste funcional,
+o teste funcional falha, então escrevemos um teste de unidade.
+O teste de unidade falha, então escrevemos o código mínimo da aplicação.
+Repita o passo anterior até o teste de unidade passar.
+Podemos refatorar a aplicação neste momento escrevendo um código mínimo e verificando se o teste passa.
+Repetimos o segundo os últimos passos até o teste funcional passar.
+Caso necessário refatoramos o código escrevendo mais testes de unidade.
+Repetimos o processo para criar mais testes funcionais.
