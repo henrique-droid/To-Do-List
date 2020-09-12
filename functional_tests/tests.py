@@ -14,7 +14,7 @@ class NewVisitorTest(LiveServerTestCase):
     def teardown(self):
         self.browser.quit()
 
-    def test_can_start_a_list_for_one_user(self):
+    def test_can_start_a_list_and_retrieve_it_later(self):
         # Maria decidiu utilizar o novo app TODO. Ela entra em sua página principal:
         self.browser.get(self.live_server_url)
 
